@@ -60,7 +60,7 @@ public class Gato {
                 "nome='" + nome + '\'' +
                 ", cor='" + cor + '\'' +
                 ", idade=" + idade +
-                '}'; .
+                '}';
     }
 }
 
